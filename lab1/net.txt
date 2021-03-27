@@ -1,0 +1,5 @@
+乌班图ip192.168.227.137
+win7 ip:192.168.10.10  169.254.131.38
+本机ip 10.12.176.90
+usage: ./tftp-client [-h <ip>] [-p <port>] [-m (octet|netascii)] <get|put> <filename>
+./tftp-client -h 192.168.10.10 -p 69 -m octet get 1.txt
